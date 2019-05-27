@@ -2,26 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f51c3270-041b-4436-bf01-22cb11fb95d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JScurso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Booleanos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Funcao1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Funcao2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/FuncaoEmQuaseTudo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/NullUndefined.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Numeros.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/NumerosAlgunsCuidados.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Objeto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/Strings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/TemplateString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/TipagemFraca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/VariaveisConstantes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/comentario.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/math.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/organizacao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Atribuicao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Destructuring1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Destructuring2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Destructuring3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Hoisting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/NotacaoPonto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/Objeto2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/ParNomeValor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoLet1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoLetEmLoop1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoLetEmLoop2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoVar1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoVar2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoVarEmLoop1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/UsandoVarEmLoop2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/Funcao2.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/Funcao2.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fundamentos/Funcao2.js">
+        <entry file="file://$PROJECT_DIR$/fundamentos/Destructuring3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="168">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -74,6 +71,21 @@
         <option value="$PROJECT_DIR$/fundamentos/FuncaoEmQuaseTudo.js" />
         <option value="$PROJECT_DIR$/fundamentos/Funcao1.js" />
         <option value="$PROJECT_DIR$/fundamentos/Funcao2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoVar1.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoVar2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoLet1.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoVarEmLoop1.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoLetEmLoop1.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoVarEmLoop2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/UsandoLetEmLoop2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Hoisting.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Objeto2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/ParNomeValor.js" />
+        <option value="$PROJECT_DIR$/fundamentos/NotacaoPonto.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Atribuicao.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Destructuring1.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Destructuring2.js" />
+        <option value="$PROJECT_DIR$/fundamentos/Destructuring3.js" />
       </list>
     </option>
   </component>
@@ -121,6 +133,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,29 +147,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Funcao2.js">
-    <configuration name="Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Array.js" working-dir="$PROJECT_DIR$/fundamentos">
+  <component name="RunManager" selected="Node.js.Destructuring3.js">
+    <configuration name="Destructuring1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Destructuring1.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="Funcao2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Funcao2.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="Destructuring2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Destructuring2.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="NullUndefined.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="NullUndefined.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="Destructuring3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Destructuring3.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="Objeto.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Objeto.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="NotacaoPonto.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="NotacaoPonto.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="TemplateString.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="TemplateString.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="ParNomeValor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="ParNomeValor.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Funcao2.js" />
-        <item itemvalue="Node.js.NullUndefined.js" />
-        <item itemvalue="Node.js.Objeto.js" />
-        <item itemvalue="Node.js.Array.js" />
-        <item itemvalue="Node.js.TemplateString.js" />
+        <item itemvalue="Node.js.Destructuring3.js" />
+        <item itemvalue="Node.js.Destructuring2.js" />
+        <item itemvalue="Node.js.Destructuring1.js" />
+        <item itemvalue="Node.js.NotacaoPonto.js" />
+        <item itemvalue="Node.js.ParNomeValor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -170,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558959860359</updated>
-      <workItem from="1558959869140" duration="13451000" />
+      <workItem from="1558959869140" duration="19972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13451000" />
+    <option name="totallyTimeSpent" value="19972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -185,7 +198,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3287483" />
       <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49936628" weight="0.3287483" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5006337" side_tool="true" weight="0.3287483" />
@@ -247,13 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/NumerosAlgunsCuidados.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos/Strings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -312,8 +318,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos/Funcao2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="456">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoVar1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoVar2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoLet1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/NumerosAlgunsCuidados.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoVarEmLoop1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoLetEmLoop1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoVarEmLoop2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/UsandoLetEmLoop2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Hoisting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Objeto2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/ParNomeValor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/NotacaoPonto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Atribuicao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Destructuring1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Destructuring2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/Destructuring3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
