@@ -2,7 +2,11 @@ module.exports = app => {
     const {existsOrError, notExistsOrError} = app.api.validation
 
     const save = (req, res) => {
-        const category = {...req.body}
+        const category = {
+            id: req.body.id,
+            name: req.body.name,
+            parentId: req.body.parentId
+        }
         if(req.params.id) category.id = req.params.id
 
         try{
@@ -12,9 +16,9 @@ module.exports = app => {
         }
 
         if(category.id){
-            app.db('catgories')
+            app.db('categories')
                 .update(category)
-                .where({id: catgeory.id})
+                .where({id: category.id})
                 .then(_ => res.status(204).send(msg))
                 .catch(err => res.status(500).send(err))
         } else {

@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f51c3270-041b-4436-bf01-22cb11fb95d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/middlewares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js" afterDir="false" />
+    <list default="true" id="f51c3270-041b-4436-bf01-22cb11fb95d1" name="Default Changelist" comment="20190529">
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/queries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/stat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/mongodb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/schedule/statsSchedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/AdminPages.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/ArticleAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/CategoryAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/UserAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Stat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/PageTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/UserDropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/content.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/menu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/msgs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/global.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/montyhall/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/montyhall/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/montyhall/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/montyhall/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-final/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-final/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-final/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-final/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-final/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-final/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/env_file" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/env_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,73 +56,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/index.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/global.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/middlewares.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Stat.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="1392">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/AdminPages.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="57" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="57" />
+            <state relative-caret-position="312">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/validation.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/UserAdmin.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="58" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="3144">
+              <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/CategoryAdmin.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/db.js">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/msgs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="216">
+              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,9 +126,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scheduleJob</find>
+      <find>scheduled</find>
+      <find>catg</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,38 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/funcao/IIFE.js" />
-        <option value="$PROJECT_DIR$/funcao/CallApply.js" />
-        <option value="$PROJECT_DIR$/objeto/OO.js" />
-        <option value="$PROJECT_DIR$/objeto/ObjetoRevisao.js" />
-        <option value="$PROJECT_DIR$/objeto/CriandoObjetos.js" />
-        <option value="$PROJECT_DIR$/objeto/ObjetosConstantes.js" />
-        <option value="$PROJECT_DIR$/objeto/NotacaoLiteral.js" />
-        <option value="$PROJECT_DIR$/objeto/GetterSetter.js" />
-        <option value="$PROJECT_DIR$/objeto/FuncoesImportantes.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca1.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca2.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca3.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca4.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca5.js" />
-        <option value="$PROJECT_DIR$/objeto/Heranca6.js" />
-        <option value="$PROJECT_DIR$/objeto/EvitandoModificacoes.js" />
-        <option value="$PROJECT_DIR$/objeto/JSONvsObj.js" />
-        <option value="$PROJECT_DIR$/objeto/Classe1.js" />
-        <option value="$PROJECT_DIR$/objeto/Classe2.js" />
-        <option value="$PROJECT_DIR$/array/array.js" />
-        <option value="$PROJECT_DIR$/array/ArrayMetodos.js" />
-        <option value="$PROJECT_DIR$/array/SimulandoArray.js" />
-        <option value="$PROJECT_DIR$/array/ForEach1.js" />
-        <option value="$PROJECT_DIR$/array/ForEach2.js" />
-        <option value="$PROJECT_DIR$/array/Map1.js" />
-        <option value="$PROJECT_DIR$/array/Map2.js" />
-        <option value="$PROJECT_DIR$/array/Map3.js" />
-        <option value="$PROJECT_DIR$/array/Filter1.js" />
-        <option value="$PROJECT_DIR$/array/Filter2.js" />
-        <option value="$PROJECT_DIR$/array/Reduce1.js" />
-        <option value="$PROJECT_DIR$/array/Reduce2.js" />
-        <option value="$PROJECT_DIR$/array/Reduce3.js" />
         <option value="$PROJECT_DIR$/array/ImperativoVsDeclarativo.js" />
         <option value="$PROJECT_DIR$/array/Concat.js" />
         <option value="$PROJECT_DIR$/array/FlatMap.js" />
@@ -151,16 +153,48 @@
         <option value="$PROJECT_DIR$/vue/montyhall/public/index.html" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/midllewares.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/middlewares.js" />
-        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144158_create_table_users.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144339_create_table_categories.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144355_create_table_articles.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/db.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/validation.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/article.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/queries.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/auth.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/passport.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/index.js" />
-        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/mongodb.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190626115630_add_deleted_at_table_users.js" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/env_file" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/.env" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/footer.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/menu.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/bootstrap.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/store.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/App.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/PageTitle.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/router.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/content.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/header.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/schedule/statsSchedule.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/UserDropdown.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/node_modules/node-schedule/lib/schedule.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Home.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Stat.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/ArticleAdmin.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/AdminPages.vue" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/config/admin.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/msg.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/msgs.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/main.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/global.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/stat.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/UserAdmin.vue" />
         <option value="$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js" />
+        <option value="$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/CategoryAdmin.vue" />
       </list>
     </option>
   </component>
@@ -178,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,29 +251,75 @@
               <item name="JScurso" type="462c0819:PsiDirectoryNode" />
               <item name="knowledge" type="462c0819:PsiDirectoryNode" />
               <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
               <item name="JScurso" type="462c0819:PsiDirectoryNode" />
               <item name="knowledge" type="462c0819:PsiDirectoryNode" />
               <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JScurso" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JScurso" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JScurso" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JScurso" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScurso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JScurso" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="versao-inicial" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/knowledge/versao-inicial/backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -247,6 +328,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Repositórios\JScurso\knowledge\versao-inicial\backend" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -307,6 +393,13 @@
       <workItem from="1560885831495" duration="2891000" />
       <workItem from="1560949101726" duration="6848000" />
       <workItem from="1560965408862" duration="9524000" />
+      <workItem from="1561374183823" duration="6454000" />
+      <workItem from="1561381464520" duration="7913000" />
+      <workItem from="1561489522333" duration="4008000" />
+      <workItem from="1561556940166" duration="18529000" />
+      <workItem from="1561634751420" duration="6976000" />
+      <workItem from="1561643243705" duration="17560000" />
+      <workItem from="1561739176534" duration="9979000" />
     </task>
     <task id="LOCAL-00001" summary="20190528">
       <created>1559073144598</created>
@@ -326,7 +419,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109399000" />
+    <option name="totallyTimeSpent" value="180818000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,12 +432,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21102661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26409903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -390,69 +484,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="20190529" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Filter1.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/article.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="2184">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/Filter2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/BreakContinue.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/Reduce1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Reduce2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Reduce3.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/queries.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/ImperativoVsDeclarativo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Concat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/FlatMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/fetch1.html">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/config/mongodb.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/js/axios.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/node_modules/consign/lib/consign.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -461,184 +520,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/js/jquery.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/env_file">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest1.html">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190626115630_add_deleted_at_table_users.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/server.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/basico.html">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/footer.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/binding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="504">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/eventos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/ifFor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/estilo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/template.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/componente.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/componente2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/exercicios/diretiva.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/qrcode/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/qrcode/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/sales/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1656" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/babel.config.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/src/components/Display.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/src/main/Calculator.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
-            <element signature="e#1036#1077#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/src/components/Button.vue">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/calculator/src/main.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/menu.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/montyhall/src/components/Gift.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/montyhall/src/components/Door.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/montyhall/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/montyhall/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="144">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/montyhall/src/main.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="240">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144158_create_table_users.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/PageTitle.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/content.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144339_create_table_categories.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/migrations/20190619144355_create_table_articles.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/db.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/schedule/statsSchedule.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="528">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/passport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -651,43 +649,182 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="384">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/validation.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/migrations/20181001102706_add_deleted_at_table_users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/migrations/20180927160211_create_table_users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/db.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="72">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/mongodb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/templates/UserDropdown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/ArticleAdmin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/config/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="57" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="57" />
+        <state relative-caret-position="888">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/config/routes.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/api/stat.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/stat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/knexfile.js">
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/schedule/statsSchedule.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/frontend/src/components/admin/AdminPages.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/frontend/src/components/admin/UserAdmin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="118" column="9" lean-forward="true" selection-start-line="118" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+          <folding>
+            <element signature="e#3094#3142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/home/Stat.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/AdminPages.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/config/msgs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/node_modules/node-schedule/lib/schedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-final/backend/node_modules/node-schedule/lib/schedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/UserAdmin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3144">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/backend/api/category.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        <state relative-caret-position="600">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/versao-inicial/frontend/src/components/admin/CategoryAdmin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
